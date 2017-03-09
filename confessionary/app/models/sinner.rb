@@ -1,0 +1,2 @@
+class Sinner < ApplicationRecord
+end
